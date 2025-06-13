@@ -1,3 +1,4 @@
-qweqweqw
-qweqe
-qwewqeq
+print('hellow world')
+class
+    def
+        
